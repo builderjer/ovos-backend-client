@@ -1,132 +1,88 @@
 # Changelog
 
-## [V0.1.0a7](https://github.com/OpenVoiceOS/ovos-backend-client/tree/V0.1.0a7) (2023-08-18)
+## [V0.0.6a8](https://github.com/builderjer/ovos-backend-client/tree/V0.0.6a8) (2022-10-14)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-backend-client/compare/V0.1.0a6...V0.1.0a7)
+[Full Changelog](https://github.com/builderjer/ovos-backend-client/compare/V0.0.6a7...V0.0.6a8)
 
-**Fixed bugs:**
+## [V0.0.6a7](https://github.com/builderjer/ovos-backend-client/tree/V0.0.6a7) (2022-10-14)
 
-- fix stt/ww dataset endpoints mixup [\#46](https://github.com/OpenVoiceOS/ovos-backend-client/pull/46) ([JarbasAl](https://github.com/JarbasAl))
+[Full Changelog](https://github.com/builderjer/ovos-backend-client/compare/V0.0.6a6...V0.0.6a7)
 
-## [V0.1.0a6](https://github.com/OpenVoiceOS/ovos-backend-client/tree/V0.1.0a6) (2023-06-24)
+## [V0.0.6a6](https://github.com/builderjer/ovos-backend-client/tree/V0.0.6a6) (2022-10-14)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-backend-client/compare/V0.1.0a5...V0.1.0a6)
+[Full Changelog](https://github.com/builderjer/ovos-backend-client/compare/V0.0.6a5...V0.0.6a6)
 
-**Merged pull requests:**
+## [V0.0.6a5](https://github.com/builderjer/ovos-backend-client/tree/V0.0.6a5) (2022-10-14)
 
-- Import more xdg functions from ovos\_config rather than ovos\_utils [\#44](https://github.com/OpenVoiceOS/ovos-backend-client/pull/44) ([PureTryOut](https://github.com/PureTryOut))
+[Full Changelog](https://github.com/builderjer/ovos-backend-client/compare/V0.0.6a4...V0.0.6a5)
 
-## [V0.1.0a5](https://github.com/OpenVoiceOS/ovos-backend-client/tree/V0.1.0a5) (2023-06-21)
+## [V0.0.6a4](https://github.com/builderjer/ovos-backend-client/tree/V0.0.6a4) (2022-10-11)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-backend-client/compare/V0.1.0a4...V0.1.0a5)
+[Full Changelog](https://github.com/builderjer/ovos-backend-client/compare/V0.0.6a3...V0.0.6a4)
 
-**Merged pull requests:**
+## [V0.0.6a3](https://github.com/builderjer/ovos-backend-client/tree/V0.0.6a3) (2022-10-11)
 
-- Import xdg functions from ovos\_config rather than ovos\_utils [\#43](https://github.com/OpenVoiceOS/ovos-backend-client/pull/43) ([PureTryOut](https://github.com/PureTryOut))
+[Full Changelog](https://github.com/builderjer/ovos-backend-client/compare/V0.0.6a2...V0.0.6a3)
 
-## [V0.1.0a4](https://github.com/OpenVoiceOS/ovos-backend-client/tree/V0.1.0a4) (2023-06-08)
+## [V0.0.6a2](https://github.com/builderjer/ovos-backend-client/tree/V0.0.6a2) (2022-10-11)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-backend-client/compare/V0.1.0a3...V0.1.0a4)
+[Full Changelog](https://github.com/builderjer/ovos-backend-client/compare/V0.0.6a1...V0.0.6a2)
 
-**Implemented enhancements:**
+## [V0.0.6a1](https://github.com/builderjer/ovos-backend-client/tree/V0.0.6a1) (2022-10-11)
 
-- feat/admin\_update\_backend\_config [\#42](https://github.com/OpenVoiceOS/ovos-backend-client/pull/42) ([JarbasAl](https://github.com/JarbasAl))
+[Full Changelog](https://github.com/builderjer/ovos-backend-client/compare/V0.0.5...V0.0.6a1)
 
-## [V0.1.0a3](https://github.com/OpenVoiceOS/ovos-backend-client/tree/V0.1.0a3) (2023-06-08)
+## [V0.0.5](https://github.com/builderjer/ovos-backend-client/tree/V0.0.5) (2022-10-10)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-backend-client/compare/V0.1.0a2...V0.1.0a3)
+[Full Changelog](https://github.com/builderjer/ovos-backend-client/compare/V0.0.5a5...V0.0.5)
 
-**Fixed bugs:**
+## [V0.0.5a5](https://github.com/builderjer/ovos-backend-client/tree/V0.0.5a5) (2022-10-09)
 
-- hotfix/rebase mess up in \#30 [\#41](https://github.com/OpenVoiceOS/ovos-backend-client/pull/41) ([JarbasAl](https://github.com/JarbasAl))
+[Full Changelog](https://github.com/builderjer/ovos-backend-client/compare/V0.0.5a4...V0.0.5a5)
 
-## [V0.1.0a2](https://github.com/OpenVoiceOS/ovos-backend-client/tree/V0.1.0a2) (2023-06-08)
+## [V0.0.5a4](https://github.com/builderjer/ovos-backend-client/tree/V0.0.5a4) (2022-10-09)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-backend-client/compare/V0.0.7a9...V0.1.0a2)
+[Full Changelog](https://github.com/builderjer/ovos-backend-client/compare/V0.0.5a3...V0.0.5a4)
 
-**Implemented enhancements:**
+## [V0.0.5a3](https://github.com/builderjer/ovos-backend-client/tree/V0.0.5a3) (2022-10-04)
 
-- feat/DatabaseApi [\#30](https://github.com/OpenVoiceOS/ovos-backend-client/pull/30) ([JarbasAl](https://github.com/JarbasAl))
+[Full Changelog](https://github.com/builderjer/ovos-backend-client/compare/V0.0.5a2...V0.0.5a3)
 
-## [V0.0.7a9](https://github.com/OpenVoiceOS/ovos-backend-client/tree/V0.0.7a9) (2023-06-07)
+## [V0.0.5a2](https://github.com/builderjer/ovos-backend-client/tree/V0.0.5a2) (2022-10-04)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-backend-client/compare/V0.0.7a8...V0.0.7a9)
+[Full Changelog](https://github.com/builderjer/ovos-backend-client/compare/V0.0.4a4...V0.0.5a2)
 
-**Breaking changes:**
+## [V0.0.4a4](https://github.com/builderjer/ovos-backend-client/tree/V0.0.4a4) (2022-09-30)
 
-- deprecate dead backends [\#39](https://github.com/OpenVoiceOS/ovos-backend-client/pull/39) ([JarbasAl](https://github.com/JarbasAl))
+[Full Changelog](https://github.com/builderjer/ovos-backend-client/compare/V0.0.4a3...V0.0.4a4)
 
-## [V0.0.7a8](https://github.com/OpenVoiceOS/ovos-backend-client/tree/V0.0.7a8) (2023-06-07)
+## [V0.0.4a3](https://github.com/builderjer/ovos-backend-client/tree/V0.0.4a3) (2022-09-18)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-backend-client/compare/V0.0.7a7...V0.0.7a8)
+[Full Changelog](https://github.com/builderjer/ovos-backend-client/compare/V0.0.4a2...V0.0.4a3)
 
-**Merged pull requests:**
+## [V0.0.4a2](https://github.com/builderjer/ovos-backend-client/tree/V0.0.4a2) (2022-09-18)
 
-- Updated dependencies and automation [\#34](https://github.com/OpenVoiceOS/ovos-backend-client/pull/34) ([NeonDaniel](https://github.com/NeonDaniel))
+[Full Changelog](https://github.com/builderjer/ovos-backend-client/compare/V0.0.4a1...V0.0.4a2)
 
-## [V0.0.7a7](https://github.com/OpenVoiceOS/ovos-backend-client/tree/V0.0.7a7) (2023-06-07)
+## [V0.0.4a1](https://github.com/builderjer/ovos-backend-client/tree/V0.0.4a1) (2022-09-18)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-backend-client/compare/V0.0.7a6...V0.0.7a7)
+[Full Changelog](https://github.com/builderjer/ovos-backend-client/compare/V0.0.3...V0.0.4a1)
 
-**Implemented enhancements:**
+## [V0.0.3](https://github.com/builderjer/ovos-backend-client/tree/V0.0.3) (2022-09-18)
 
-- add cache + fix geolocation [\#40](https://github.com/OpenVoiceOS/ovos-backend-client/pull/40) ([JarbasAl](https://github.com/JarbasAl))
+[Full Changelog](https://github.com/builderjer/ovos-backend-client/compare/V0.0.1...V0.0.3)
 
-## [V0.0.7a6](https://github.com/OpenVoiceOS/ovos-backend-client/tree/V0.0.7a6) (2023-05-06)
+## [V0.0.1](https://github.com/builderjer/ovos-backend-client/tree/V0.0.1) (2022-09-18)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-backend-client/compare/V0.0.7a5...V0.0.7a6)
+[Full Changelog](https://github.com/builderjer/ovos-backend-client/compare/V0.0.1a4...V0.0.1)
 
-**Merged pull requests:**
+## [V0.0.1a4](https://github.com/builderjer/ovos-backend-client/tree/V0.0.1a4) (2022-09-18)
 
-- add package data [\#38](https://github.com/OpenVoiceOS/ovos-backend-client/pull/38) ([emphasize](https://github.com/emphasize))
+[Full Changelog](https://github.com/builderjer/ovos-backend-client/compare/0.0.2...V0.0.1a4)
 
-## [V0.0.7a5](https://github.com/OpenVoiceOS/ovos-backend-client/tree/V0.0.7a5) (2023-04-25)
+## [0.0.2](https://github.com/builderjer/ovos-backend-client/tree/0.0.2) (2022-09-10)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-backend-client/compare/V0.0.7a4...V0.0.7a5)
-
-**Fixed bugs:**
-
-- Personal-backend: Workaround deadlock [\#37](https://github.com/OpenVoiceOS/ovos-backend-client/pull/37) ([forslund](https://github.com/forslund))
-
-**Closed issues:**
-
-- Double acquire of combo-lock [\#36](https://github.com/OpenVoiceOS/ovos-backend-client/issues/36)
-
-## [V0.0.7a4](https://github.com/OpenVoiceOS/ovos-backend-client/tree/V0.0.7a4) (2023-04-22)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-backend-client/compare/V0.0.7a3...V0.0.7a4)
-
-**Implemented enhancements:**
-
-- fix offline geolocate [\#33](https://github.com/OpenVoiceOS/ovos-backend-client/pull/33) ([emphasize](https://github.com/emphasize))
-
-**Closed issues:**
-
-- 'what is the weather in baltimore' returns an error \#30 [\#31](https://github.com/OpenVoiceOS/ovos-backend-client/issues/31)
-
-## [V0.0.7a3](https://github.com/OpenVoiceOS/ovos-backend-client/tree/V0.0.7a3) (2023-04-21)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-backend-client/compare/V0.0.7a2...V0.0.7a3)
-
-**Merged pull requests:**
-
-- fix AudioFile offline import [\#35](https://github.com/OpenVoiceOS/ovos-backend-client/pull/35) ([emphasize](https://github.com/emphasize))
-
-## [V0.0.7a2](https://github.com/OpenVoiceOS/ovos-backend-client/tree/V0.0.7a2) (2023-02-15)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-backend-client/compare/V0.0.7a1...V0.0.7a2)
-
-**Fixed bugs:**
-
-- fix/pairing\_checks\_for\_offline [\#29](https://github.com/OpenVoiceOS/ovos-backend-client/pull/29) ([JarbasAl](https://github.com/JarbasAl))
-
-## [V0.0.7a1](https://github.com/OpenVoiceOS/ovos-backend-client/tree/V0.0.7a1) (2023-02-04)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-backend-client/compare/V0.0.6...V0.0.7a1)
-
-**Implemented enhancements:**
-
-- Add reverse geo api [\#27](https://github.com/OpenVoiceOS/ovos-backend-client/pull/27) ([JarbasAl](https://github.com/JarbasAl))
+[Full Changelog](https://github.com/builderjer/ovos-backend-client/compare/a4dbde9e07343bbff10ce7072e89d0e56c36ce78...0.0.2)
 
 
 
