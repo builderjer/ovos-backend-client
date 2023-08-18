@@ -1,5 +1,9 @@
 # Changelog
 
+## [V0.1.0a9](https://github.com/builderjer/ovos-backend-client/tree/V0.1.0a9) (2023-08-18)
+
+[Full Changelog](https://github.com/builderjer/ovos-backend-client/compare/V0.0.6a8...V0.1.0a9)
+
 ## [V0.0.6a8](https://github.com/builderjer/ovos-backend-client/tree/V0.0.6a8) (2022-10-14)
 
 [Full Changelog](https://github.com/builderjer/ovos-backend-client/compare/V0.0.6a7...V0.0.6a8)
